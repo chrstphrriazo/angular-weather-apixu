@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "weather-app-apixu": {
+    "weather-app": {
       "projectType": "application",
       "schematics": {
         "@schematics/angular:application": {
